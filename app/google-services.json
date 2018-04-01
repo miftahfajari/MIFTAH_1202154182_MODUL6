@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666066356933",
+    "firebase_url": "https://modul6-67397.firebaseio.com",
+    "project_id": "modul6-67397",
+    "storage_bucket": "modul6-67397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666066356933:android:5428f24165e4035e",
+        "android_client_info": {
+          "package_name": "miftahfajar.miftah_1202154182_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666066356933-0ksc5cqijkgvdlo9sa2f975gba91d0l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "miftahfajar.miftah_1202154182_modul6",
+            "certificate_hash": "c312e9f33a6e6ad2f75beee553c8f2a2924802c1"
+          }
+        },
+        {
+          "client_id": "666066356933-05g6aanq902589v595r61t1eiassk4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIgkSIa8RLUqteCigRY7EpPcFvmJe1_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666066356933-05g6aanq902589v595r61t1eiassk4u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
